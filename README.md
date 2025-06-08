@@ -1,6 +1,7 @@
 # 📖 Help and Commands
 
 欢迎来到帮助页面。这里将介绍该机器人如何工作以及支持的各项指令。
+
 原作者：https://github.com/olted/aedilebot/tree/main
 ---
 
@@ -29,11 +30,11 @@
 
 ## ✨ 示例（可以直接复制到频道试用）：
 ^how (many|much)(.*) to (kill|destroy|disable|dehusk)(.*)
-- `How much 150mm to kill Patridia?`  
-- `How many satchels to kill t3 bunker core husk?`  
-- `How many 68mm to disable HTD?`  
-- `How many satchels to kill Victa?`  
-- `How much 40mm to destroy bt pad?`
+- `how much 150mm to kill Patridia?`  
+- `how many satchels to kill t3 bunker core husk?`  
+- `how many 68mm to disable HTD?`  
+- `how many satchels to kill Victa?`  
+- `how much 40mm to destroy bt pad?`
 
 ---
 
