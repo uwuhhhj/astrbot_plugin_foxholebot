@@ -266,8 +266,8 @@ def handle_response_inner(weapon,target, operation="kill", num1=0, weapon2=None)
     except Exception as e:
         print(e)
         traceback.print_tb(e.__traceback__)
-        return ("Inner error happened during processing of your request. "
-                "Please, contact bot's devs about this.")
+        return ("未找到相关数据，请重试. "
+                "建议输入/foxholehelp寻求帮助.")
     
 def move_string_to_rear(string):
     tier_dictionary = { "tier 1":"t1","tier 2":"t2","tier 3":"t3","concrete":"t3"}
